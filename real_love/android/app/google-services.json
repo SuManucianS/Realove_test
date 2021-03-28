@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "559598649995",
+    "project_id": "real-love-386f3",
+    "storage_bucket": "real-love-386f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559598649995:android:6b8d33bb7051f12d538a8e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559598649995-v4hitn0gev8nvhklkvk5if4s08ieec6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5a4yht8eyfqVATK8__WOC76iDsZZfqrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559598649995-v4hitn0gev8nvhklkvk5if4s08ieec6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559598649995:android:f76a841ec3406c70538a8e",
+        "android_client_info": {
+          "package_name": "com.example.real_love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559598649995-nkvlt7f4q0dbm108e99rdc9ila7420ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.real_love",
+            "certificate_hash": "0f9f26441a15dee2c536c1c8a9db392e9d556fa4"
+          }
+        },
+        {
+          "client_id": "559598649995-v4hitn0gev8nvhklkvk5if4s08ieec6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5a4yht8eyfqVATK8__WOC76iDsZZfqrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559598649995-v4hitn0gev8nvhklkvk5if4s08ieec6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
